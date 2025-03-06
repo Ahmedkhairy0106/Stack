@@ -74,7 +74,7 @@ void menu() {
             default:
                 printf("Invalid choice. Try again!\n");
         }
-    } while (choice != 9);
+    } while (choice != 10);
 }
 
 int main() {
